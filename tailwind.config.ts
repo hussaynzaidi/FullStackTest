@@ -9,8 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        "background": "var(--background)",
+        "foreground": "var(--foreground)",
+        "mudirr": "#f4f6fA",
+        "mudirralt": "#dbe2f0",
+        "mudirrbutton": "#5876b7"
       },
     },
   },
