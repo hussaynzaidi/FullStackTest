@@ -1,9 +1,9 @@
 "use client";
 
-import blue from "@/app/assets/blue.png";
-import green from "@/app/assets/green.png";
-import red from "@/app/assets/red.png";
-import yellow from "@/app/assets/yellow.png";
+import blue from "../assets/blue.png";
+import green from "../assets/green.png";
+import red from "../assets/red.png";
+import yellow from "../assets/yellow.png";
 import { Box, Container, Stack } from "@chakra-ui/react";
 import Image from "next/image";
 const WelcomeHeader = () => {

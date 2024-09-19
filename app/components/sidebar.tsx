@@ -1,7 +1,7 @@
 "use client";
 
-import logo from "@/app/assets/mudirr_logo.png";
-import pfp from "@/app/assets/pfp.png";
+import logo from "../assets/mudirr_logo.png";
+import pfp from "..//assets/pfp.png";
 import { ChevronDownIcon } from "@chakra-ui/icons";
 import { Button, ButtonGroup } from "@chakra-ui/react";
 import {
